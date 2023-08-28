@@ -21,13 +21,3 @@ This Project is like Gmeet where we can organise a meeting on a particular date 
 2. PeerJs for connecting to different IDs.
 
 3. WebRTC to capture and optionally stream audio and/or video media.
-
-## Screenshots
-
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(99).png>)
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(101).png>)
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(102).png>)
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(105).png>)
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(104).png>)
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(106).png>)
-![Screenshot94 info](<https://raw.githubusercontent.com/ArpitSureka/Ak-Meet/main/Images/Screenshot%20(108).png>)
